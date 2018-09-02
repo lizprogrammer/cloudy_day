@@ -1,0 +1,28 @@
+\Inputs:
+# of Towns ->			Integer
+	Positive only no zeros, large numbers
+Population of each town 	[Integers]
+	Positive only no zeros, large numbers, length === # of towns, static, immutable 
+Location of each town ->	[integers],
+	positive no zero, large numbers, length === # of towns, static, immutable, no town in same location
+# of Clouds ->			integer
+	Positive only no zeros, large numbers
+Location of each cloud -> 	[integers]
+	positive no zero, large numbers, length === # of clouds, static, immutable, clouds could occupy same space
+Size of each cloud ->		[integers]
+	Positive no zero, large number, length === # of clouds, static, immutable, clouds will remain in borders.
+
+Outputs
+Max population of sunny towns -> integer
+	Could be zero, could be large, must be positive, wont fluctuate. 
+
+
+
+Notes
+If a town has no clouds add to constMaxPopulation then splice the town out the city array.
+If a town has more than one cloud splice the town out of the city array.
+After town check if a cloud is inside another cloud splice that cloud out of the sky array.
+If a cloud has not towns under it splice out the cloud from sky array.
+
+
+Example
