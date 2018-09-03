@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/CloudyDay/bin/Debug/netcoreapp2.0/CloudyDay.deps.json
+/home/ubuntu/workspace/CloudyDay/bin/Debug/netcoreapp2.0/CloudyDay.runtimeconfig.json
+/home/ubuntu/workspace/CloudyDay/bin/Debug/netcoreapp2.0/CloudyDay.runtimeconfig.dev.json
+/home/ubuntu/workspace/CloudyDay/bin/Debug/netcoreapp2.0/CloudyDay.dll
+/home/ubuntu/workspace/CloudyDay/bin/Debug/netcoreapp2.0/CloudyDay.pdb
+/home/ubuntu/workspace/CloudyDay/obj/Debug/netcoreapp2.0/CloudyDay.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/CloudyDay/obj/Debug/netcoreapp2.0/CloudyDay.AssemblyInfo.cs
+/home/ubuntu/workspace/CloudyDay/obj/Debug/netcoreapp2.0/CloudyDay.dll
+/home/ubuntu/workspace/CloudyDay/obj/Debug/netcoreapp2.0/CloudyDay.pdb
